@@ -619,7 +619,7 @@ a:hover {
 }
 @media (max-width: 767px) {
   .mbr-arrow {
-    display: none;
+    /* display: none; */
   }
 }
 .form-control-label {
